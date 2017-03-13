@@ -1,2 +1,2 @@
 # LeetCode
-Practice
+Accepted Answer
